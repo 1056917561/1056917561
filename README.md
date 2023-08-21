@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1056917561&show_icons=true&theme=dracula" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1056917561&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1056917561&show_icons=true&theme=dracula" /> 
 </div>
