@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 <!--主题色，官网目前支持的主题色有 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
+### My GitHub Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=1056917561&show_icons=true&theme=dracula" /> 
-</div>
-<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1056917561&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
